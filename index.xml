@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Михаил NN</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Михаил NN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2017 Mikhail NN. All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 18 Nov 2017 22:55:56 -0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resume</title>
+      <link>http://example.org/resume/</link>
+      <pubDate>Sat, 18 Nov 2017 22:55:56 -0800</pubDate>
+      
+      <guid>http://example.org/resume/</guid>
+      <description>Пример резюме
+2011 - Настоящее время Работа
+2009 - 2011 Работа
+2005-2009 Работа</description>
+    </item>
+    
+    <item>
+      <title>Мои Проекты</title>
+      <link>http://example.org/projects/</link>
+      <pubDate>Sat, 18 Nov 2017 22:53:13 -0800</pubDate>
+      
+      <guid>http://example.org/projects/</guid>
+      <description>Пример Пример Пример
+Пример
+Пример</description>
+    </item>
+    
+  </channel>
+</rss>
